@@ -36,12 +36,7 @@ I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hmzarasheed&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmzarasheed&layout=compact&theme=radical"/>
-</div>
 
 ---
 
