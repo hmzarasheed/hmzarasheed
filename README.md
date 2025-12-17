@@ -12,16 +12,15 @@
 
 ### 🚀 About Me
 
-I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with a strong foundation in theoretical and practical Machine Learning.
+[cite_start]I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with a strong foundation in theoretical and practical Machine Learning[cite: 11, 14, 15].
 
-*🎓 **Education:** BS Computer Science (CGPA: 3.24/4).
-*🧠 **Interests:** Learning Theory, Optimization, 3D Generative Modeling, and Diffusion Models.
-*📍 **Location:** Pakistan,Lahore.
+* [cite_start]🎓 **Education:** BS Computer Science (CGPA: 3.24/4)[cite: 14, 21].
+* [cite_start]🧠 **Interests:** Learning Theory, Optimization, 3D Generative Modeling, and Diffusion Models[cite: 24, 26, 86].
+* [cite_start]📍 **Location:** Pakistan, Lahore[cite: 100].
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -37,8 +36,6 @@ I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
-
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -50,5 +47,5 @@ I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with
 
 ### 📫 Contact
 
-***Email:** [hamxa.hnd@gmail.com](mailto:hamxa.hnd@gmail.com)
-***Phone:** +92 303 5030738 
+**Email:** [hamxa.hnd@gmail.com](mailto:hamxa.hnd@gmail.com) <br />
+[cite_start]**Phone:** +92 303 5030738 [cite: 5, 8]
