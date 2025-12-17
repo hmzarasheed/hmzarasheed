@@ -4,7 +4,7 @@
 
 ### Computer Science Graduate | Generative Modeling & Computer Vision | Building foundations in QML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-rasheed/) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:hamxa.hnd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-rasheed-6a9b3b23a/) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:hamxa.hnd@gmail.com)
 
 </div>
 
@@ -12,11 +12,11 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with a strong foundation in theoretical and practical Machine Learning[cite: 11, 14, 15].
+I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with a strong foundation in theoretical and practical Machine Learning.
 
-* [cite_start]🎓 **Education:** BS Computer Science (CGPA: 3.24/4)[cite: 14, 21].
-* [cite_start]🧠 **Interests:** Learning Theory, Optimization, 3D Generative Modeling, and Diffusion Models[cite: 24, 26, 86].
-* [cite_start]📍 **Location:** Pakistan, Lahore[cite: 100].
+* 🎓 **Education:** BS Computer Science (CGPA: 3.24/4).
+* 🧠 **Interests:** Learning Theory, Optimization, 3D Generative Modeling, and Diffusion Models.
+* 📍 **Location:** Pakistan, Lahore.
 
 ---
 
@@ -48,4 +48,4 @@
 ### 📫 Contact
 
 **Email:** [hamxa.hnd@gmail.com](mailto:hamxa.hnd@gmail.com) <br />
-[cite_start]**Phone:** +92 303 5030738 [cite: 5, 8]
+**Phone:** +92 303 5030738
