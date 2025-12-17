@@ -4,13 +4,13 @@
 
 ### Computer Science Graduate | Generative Modeling & Computer Vision | Building foundations in QML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-rasheed-6a9b3b23a/) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:hamxa.hnd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-rasheed-6a9b3b23a/)
 
 </div>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with a strong foundation in theoretical and practical Machine Learning.
 
@@ -20,7 +20,7 @@ I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Stack & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -36,7 +36,7 @@ I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hmzarasheed&show_icons=true&theme=radical" />
@@ -45,7 +45,7 @@ I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with
 
 ---
 
-### 📫 Contact
+### Contact
 
 **Email:** [hamxa.hnd@gmail.com](mailto:hamxa.hnd@gmail.com) <br />
 **Phone:** +92 303 5030738
