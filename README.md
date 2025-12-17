@@ -4,7 +4,7 @@
 
 ### Computer Science Graduate | Generative Modeling & Computer Vision | Building foundations in QML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-rasheed-6a9b3b23a/)[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923035030738)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-rasheed-6a9b3b23a/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923035030738)
 
 </div>
 
