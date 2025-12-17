@@ -14,7 +14,7 @@
 
 I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with a strong foundation in theoretical and practical Machine Learning.
 
-🎓 **Education:** BS Computer Science (CGPA: 3.24/4).
+🎓 **Education:** BS Computer Science (CGPA: 3.24/4)[cite: 23].
 🧠 **Interests:** Learning Theory, Optimization, 3D Generative Modeling, and Diffusion Models.
 📍 **Location:** Pakistan,Lahore.
 
