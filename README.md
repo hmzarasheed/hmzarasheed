@@ -14,9 +14,9 @@
 
 I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with a strong foundation in theoretical and practical Machine Learning.
 
-🎓 **Education:** BS Computer Science (CGPA: 3.24/4)[cite: 23].
-🧠 **Interests:** Learning Theory, Optimization, 3D Generative Modeling, and Diffusion Models.
-📍 **Location:** Pakistan,Lahore.
+*🎓 **Education:** BS Computer Science (CGPA: 3.24/4).
+*🧠 **Interests:** Learning Theory, Optimization, 3D Generative Modeling, and Diffusion Models.
+*📍 **Location:** Pakistan,Lahore.
 
 ---
 
@@ -42,13 +42,13 @@ I am a **Computer Science Graduate** from **Islamia University Bahawalpur** with
 ### 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hmzarasheed&show_icons=true&theme=radical" alt="Hamza's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmzarasheed&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=hmzarasheed&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmzarasheed&layout=compact&theme=radical"/>
 </div>
 
 ---
 
 ### 📫 Contact
 
-**Email:** [hamxa.hnd@gmail.com](mailto:hamxa.hnd@gmail.com)
-**Phone:** +92 303 5030738 
+***Email:** [hamxa.hnd@gmail.com](mailto:hamxa.hnd@gmail.com)
+***Phone:** +92 303 5030738 
